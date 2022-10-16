@@ -1,3 +1,7 @@
+# Deployed and YouTube Link:
+Link: https://fitclub-1my.pages.dev/
+YT: https://www.youtube.com/watch?v=gpqoZQ8GNK8&t=55s
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
